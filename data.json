@@ -1,0 +1,48 @@
+[
+  {
+    "id": "nike-white-tshirt",
+    "title": "Nike White T-Shirt",
+    "description": "Classic white Nike tee with the Futura logo. Received as a gift, never worn. Placeholder text – will be replaced with the real description.",
+    "size": "M",
+    "price": "5 €",
+    "wornCount": 0,
+    "wornCountColor": "blue",
+    "isSold": false,
+    "images": [
+      "./assets/pictures/nike-shirt/nike-white-front.png",
+      "./assets/pictures/nike-shirt/nike-white-back.png"
+    ],
+    "audio": "./assets/music/default-track/initial-track.mp3"
+  },
+  {
+    "id": "cargo-jeans",
+    "title": "Cargo Jeans",
+    "description": "Wide-fit camo cargo jeans with side pockets. Placeholder text – will be replaced with the real description.",
+    "size": "32",
+    "price": "15 €",
+    "wornCount": 0,
+    "wornCountColor": "blue",
+    "isSold": false,
+    "images": [
+      "./assets/pictures/jeans/cargo-jeans-front.png",
+      "./assets/pictures/jeans/cargo-jeans-back.png",
+      "./assets/pictures/jeans/cargo-jeans-right.png"
+    ],
+    "audio": "./assets/music/default-track/initial-track.mp3"
+  },
+  {
+    "id": "black-shoes",
+    "title": "Black Shoes",
+    "description": "Black leather shoes. Placeholder text – will be replaced with the real description.",
+    "size": "43",
+    "price": "30 €",
+    "wornCount": 0,
+    "wornCountColor": "blue",
+    "isSold": true,
+    "images": [
+      "./assets/pictures/shoe/black-shoe-transparent-front.png",
+      "./assets/pictures/shoe/black-shoe-transparent-back.png"
+    ],
+    "audio": "./assets/music/default-track/initial-track.mp3"
+  }
+]
